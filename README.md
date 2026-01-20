@@ -17,7 +17,7 @@ Additional files:
 
 ## In case the notebook rendering is not valid, please use [nbviewer](https://nbviewer.org/).
 
-1. [Sea current time series decomposition](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/time_series_decomposition.ipynb) - time series components visualization
-2. [Speed / Velocity plots](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/velocity.ipynb) - velocity visualization
-3. [Kelp analysis](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/kelp.ipynb) - kelp species analysis
-4. [t-SNE analysis of velocity components](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/analysis_t-SNE.ipynb) - t-SNE analysis
+1. [Sea current time series decomposition](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/main/time_series_decomposition.ipynb) - time series components visualization
+2. [Speed / Velocity plots](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/main/velocity.ipynb) - velocity visualization
+3. [Kelp analysis](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/main/kelp.ipynb) - kelp species analysis
+4. [t-SNE analysis of velocity components](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis2/blob/main/analysis_t-SNE.ipynb) - t-SNE analysis
